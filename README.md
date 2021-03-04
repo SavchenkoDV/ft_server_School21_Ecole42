@@ -1,6 +1,5 @@
 # ft_server_School21_Ecole42
 
-Sys-Admin project. The aim is to discover Docker and setup a web server.
 Based on the task, we need to raise the server with the help of <a href="https://docs.docker.com/">Docker</a>, on <a href="https://www.debian.org/">the debian operating system</a>.
 The server will include (<a href="https://lempstack.com/">LEMP STACK</a>): Debian:buster, Nginx, MySQL or MariaDB, php, and phpmyadmin, Wordpress, open ssl.
 
