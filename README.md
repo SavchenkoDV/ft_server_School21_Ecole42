@@ -9,7 +9,7 @@ This will help get the server up and running (you need to read in this order, do
 * <a href="https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mariadb-php-lemp-stack-on-debian-10">How To Install LEMP stack on Debian 10</a><br>
 
 IF YOU WANT JUST USING FINISHED ASSEMBLY:<br>
-This is a sample instruction for running VI and BBB on a MAC.<br>
+This is a sample instruction for building images, running container, WordPress and phpmyadmin on a MAC.<br>
 On other OS, the instructions may change a little, you can read in more detail <a href="https://docs.docker.com/">HERE</a>.<br>
 
 * Install Docker.<br>
