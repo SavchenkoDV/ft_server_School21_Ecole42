@@ -1,0 +1,4 @@
+CREATE DATABASE DVSGroupDB;
+CREATE USER 'dvs'@'localhost' IDENTIFIED BY 'password';
+GRANT ALL PRIVILEGES ON DVSGroupDB.* TO 'dvs'@'localhost';
+FLUSH PRIVILEGES;
